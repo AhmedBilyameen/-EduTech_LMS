@@ -1,5 +1,4 @@
-# 🚀 EduTech LMS - PRO Edition
-
+# 🚀 EduTech LMS
 A robust, modular Learning Management System designed with advanced Java OOP practices, simulating a real enterprise system.
 
 ---
