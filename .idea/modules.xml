@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EduTechLMS_PRO_Expanded_v2.iml" filepath="$PROJECT_DIR$/EduTechLMS_PRO_Expanded_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EduTechLMS.iml" filepath="$PROJECT_DIR$/EduTechLMS.iml" />
     </modules>
   </component>
 </project>
